@@ -21,7 +21,7 @@ The Solutions are coded using any one of the following languages:
   <tr>
     <td align="center"><a href="https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0/?track=sorting-interview">Triplet Sum in Array</a></td> 
     <td align="center">2</td>
-    <td align="center">Hashmaps</td>
+    <td align="center">Hashmaps, Sorting</td>
     <td align="center">Java</td>
     <td align="center"><a href="https://ide.geeksforgeeks.org/OxdEMAgp2x">Solution</a></td>
     <td align="center">16-01-19</td>
