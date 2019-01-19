@@ -25,5 +25,13 @@ The Solutions are coded using any one of the following languages:
     <td align="center">Java</td>
     <td align="center"><a href="https://ide.geeksforgeeks.org/OxdEMAgp2x">Solution</a></td>
     <td align="center">16-01-19</td>
+  </tr>
   <tr>
+    <td align="center"><a href="https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not/0/?track=hashing-interview">Check if two Arrays are Equal or not</a></td> 
+    <td align="center">1</td>
+    <td align="center">Hashmaps</td>
+    <td align="center">Java</td>
+    <td align="center"><a href="https://ide.geeksforgeeks.org/mt5B4k7Qoe">Solution</a></td>
+    <td align="center">19-01-19</td>
+  </tr>
 </table>
