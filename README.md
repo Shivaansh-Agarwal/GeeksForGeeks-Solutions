@@ -21,7 +21,7 @@ The Solutions are coded using any one of the following languages:
   <tr>
     <td align="center"><a href="https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0/?track=sorting-interview">Triplet Sum in Array</a></td> 
     <td align="center">2</td>
-    <td align="center">Hashmaps, Sorting</td>
+    <td align="center">HashMaps, Sorting</td>
     <td align="center">Java 8</td>
     <td align="center"><a href="https://ide.geeksforgeeks.org/OxdEMAgp2x">Solution</a></td>
     <td align="center">16-01-19</td>
@@ -29,7 +29,7 @@ The Solutions are coded using any one of the following languages:
   <tr>
     <td align="center"><a href="https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not/0/?track=hashing-interview">Check if two Arrays are Equal or not</a></td> 
     <td align="center">1</td>
-    <td align="center">Hashmaps</td>
+    <td align="center">HashMaps</td>
     <td align="center">Java 8</td>
     <td align="center"><a href="https://ide.geeksforgeeks.org/mt5B4k7Qoe">Solution</a></td>
     <td align="center">19-01-19</td>
@@ -37,9 +37,17 @@ The Solutions are coded using any one of the following languages:
   <tr>
     <td align="center"><a href="https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times/0/?track=hashing-interview">First Element to occur K Times</a></td> 
     <td align="center">1</td>
-    <td align="center">Hashmaps</td>
+    <td align="center">HashMaps</td>
     <td align="center">Java 8</td>
     <td align="center"><a href="https://ide.geeksforgeeks.org/Jy6Dtowqyt">Solution</a></td>
+    <td align="center">20-01-19</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://practice.geeksforgeeks.org/problems/in-first-but-second/0/?track=hashing-interview">In First But Second</a></td> 
+    <td align="center">4</td>
+    <td align="center">HashMaps</td>
+    <td align="center">Java 8</td>
+    <td align="center"><a href="https://ide.geeksforgeeks.org/6WRfag7DOz">Solution</a></td>
     <td align="center">20-01-19</td>
   </tr>
 </table>
