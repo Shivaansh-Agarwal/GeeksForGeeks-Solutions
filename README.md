@@ -74,4 +74,12 @@ The Solutions are coded using any one of the following languages:
     <td align="center"><a href="https://ide.geeksforgeeks.org/tGsprUN5Li">Solution</a></td>
     <td align="center">21-01-19</td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://practice.geeksforgeeks.org/problems/check-for-subsequence/0/?track=string-interview">Check for Subsequence</a></td> 
+    <td align="center">1</td>
+    <td align="center">String</td>
+    <td align="center">Java 8</td>
+    <td align="center"><a href="https://ide.geeksforgeeks.org/Shu3Gmi4qY">Solution</a></td>
+    <td align="center">25-01-19</td>
+  </tr>
 </table>
