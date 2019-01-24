@@ -90,4 +90,12 @@ The Solutions are coded using any one of the following languages:
     <td align="center"><a href="https://ide.geeksforgeeks.org/XqplJLxwNv">Solution</a></td>
     <td align="center">25-01-19</td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://practice.geeksforgeeks.org/problems/third-largest-element/1/?track=sp-2-1">Third Largest Element</a></td> 
+    <td align="center">1</td>
+    <td align="center">Arrays</td>
+    <td align="center">Java 8</td>
+    <td align="center"><a href="https://ide.geeksforgeeks.org/oH9n7VCdBA">Solution</a></td>
+    <td align="center">25-01-19</td>
+  </tr>
 </table>
