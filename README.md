@@ -82,4 +82,12 @@ The Solutions are coded using any one of the following languages:
     <td align="center"><a href="https://ide.geeksforgeeks.org/Shu3Gmi4qY">Solution</a></td>
     <td align="center">25-01-19</td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0">Longest Common Subsequence</a></td> 
+    <td align="center">4</td>
+    <td align="center">Dynamic Programming, String</td>
+    <td align="center">Java 8</td>
+    <td align="center"><a href="https://ide.geeksforgeeks.org/XqplJLxwNv">Solution</a></td>
+    <td align="center">25-01-19</td>
+  </tr>
 </table>
