@@ -98,4 +98,12 @@ The Solutions are coded using any one of the following languages:
     <td align="center"><a href="https://ide.geeksforgeeks.org/oH9n7VCdBA">Solution</a></td>
     <td align="center">25-01-19</td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://practice.geeksforgeeks.org/problems/pair-with-given-sum-in-a-sorted-array/0/?track=interview-arrays">Pair with Given Sum in a Sorted Array</a></td> 
+    <td align="center">2</td>
+    <td align="center">Arrays, Sorting</td>
+    <td align="center">Java 8</td>
+    <td align="center"><a href="https://ide.geeksforgeeks.org/1unCicsW4o">Solution</a></td>
+    <td align="center">26-01-19</td>
+  </tr>
 </table>
