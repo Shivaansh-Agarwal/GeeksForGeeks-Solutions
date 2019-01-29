@@ -106,4 +106,12 @@ The Solutions are coded using any one of the following languages:
     <td align="center"><a href="https://ide.geeksforgeeks.org/1unCicsW4o">Solution</a></td>
     <td align="center">26-01-19</td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://practice.geeksforgeeks.org/problems/uncommon-characters/0/?track=string-interview">Uncommon Characters</a></td> 
+    <td align="center">1</td>
+    <td align="center">Strings</td>
+    <td align="center">Java 8</td>
+    <td align="center"><a href="https://ide.geeksforgeeks.org/riiHaeh3ZH">Solution</a></td>
+    <td align="center">29-01-19</td>
+  </tr>
 </table>
