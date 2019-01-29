@@ -114,4 +114,12 @@ The Solutions are coded using any one of the following languages:
     <td align="center"><a href="https://ide.geeksforgeeks.org/riiHaeh3ZH">Solution</a></td>
     <td align="center">29-01-19</td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://practice.geeksforgeeks.org/problems/urlify-a-given-string/0/?track=string-interview">URLify a Given String</a></td> 
+    <td align="center">1</td>
+    <td align="center">Strings</td>
+    <td align="center">Java 8</td>
+    <td align="center"><a href="https://ide.geeksforgeeks.org/YgbfM6ouav">Solution</a></td>
+    <td align="center">29-01-19</td>
+  </tr>
 </table>
