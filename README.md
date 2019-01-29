@@ -77,7 +77,7 @@ The Solutions are coded using any one of the following languages:
   <tr>
     <td align="center"><a href="https://practice.geeksforgeeks.org/problems/check-for-subsequence/0/?track=string-interview">Check for Subsequence</a></td> 
     <td align="center">1</td>
-    <td align="center">String</td>
+    <td align="center">Strings</td>
     <td align="center">Java 8</td>
     <td align="center"><a href="https://ide.geeksforgeeks.org/Shu3Gmi4qY">Solution</a></td>
     <td align="center">25-01-19</td>
@@ -85,7 +85,7 @@ The Solutions are coded using any one of the following languages:
   <tr>
     <td align="center"><a href="https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0">Longest Common Subsequence</a></td> 
     <td align="center">4</td>
-    <td align="center">Dynamic Programming, String</td>
+    <td align="center">Dynamic Programming, Strings</td>
     <td align="center">Java 8</td>
     <td align="center"><a href="https://ide.geeksforgeeks.org/XqplJLxwNv">Solution</a></td>
     <td align="center">25-01-19</td>
@@ -120,6 +120,14 @@ The Solutions are coded using any one of the following languages:
     <td align="center">Strings</td>
     <td align="center">Java 8</td>
     <td align="center"><a href="https://ide.geeksforgeeks.org/YgbfM6ouav">Solution</a></td>
+    <td align="center">29-01-19</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://practice.geeksforgeeks.org/problems/find-k-th-character-in-string/0/?track=string-interview">Find k-th character in String</a></td> 
+    <td align="center">1</td>
+    <td align="center">Strings</td>
+    <td align="center">Java 8</td>
+    <td align="center"><a href="https://ide.geeksforgeeks.org/YujRtEfkNa">Solution</a></td>
     <td align="center">29-01-19</td>
   </tr>
 </table>
