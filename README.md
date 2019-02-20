@@ -146,4 +146,12 @@ The Solutions are coded using any one of the following languages:
     <td align="center"><a href="https://ide.geeksforgeeks.org/8tAPIhhP9L">Solution</a></td>
     <td align="center">20-02-19</td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://practice.geeksforgeeks.org/problems/print-matrix-in-snake-pattern/0/?track=matrix-interview">Print Matrix in Snake Pattern</a></td> 
+    <td align="center">1</td>
+    <td align="center">Matrix</td>
+    <td align="center">Java 8</td>
+    <td align="center"><a href="https://ide.geeksforgeeks.org/78OS5i8kcL">Solution</a></td>
+    <td align="center">20-02-19</td>
+  </tr>
 </table>
