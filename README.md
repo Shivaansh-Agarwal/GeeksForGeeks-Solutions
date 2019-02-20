@@ -138,4 +138,12 @@ The Solutions are coded using any one of the following languages:
     <td align="center"><a href="https://ide.geeksforgeeks.org/8GRAJ0Snw1">Solution</a></td>
     <td align="center">30-01-19</td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://practice.geeksforgeeks.org/problems/transpose-of-matrix/0/?track=matrix-interview">Transpose of a Matrix</a></td> 
+    <td align="center">1</td>
+    <td align="center">Matrix</td>
+    <td align="center">Java 8</td>
+    <td align="center"><a href="https://ide.geeksforgeeks.org/8tAPIhhP9L">Solution</a></td>
+    <td align="center">20-02-19</td>
+  </tr>
 </table>
