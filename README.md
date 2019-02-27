@@ -154,4 +154,12 @@ The Solutions are coded using any one of the following languages:
     <td align="center"><a href="https://ide.geeksforgeeks.org/78OS5i8kcL">Solution</a></td>
     <td align="center">20-02-19</td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://practice.geeksforgeeks.org/problems/design-a-tiny-url-or-url-shortener/0?fbclid=IwAR2V_HRGZMUmlkFWhxffqNmiX9suQC-DUrU8Kt6SwNvjcmZmEBzYDuAWNP0">Design a tiny URL or URL shortener</a></td> 
+    <td align="center">4</td>
+    <td align="center">Strings</td>
+    <td align="center">Java 8</td>
+    <td align="center"><a href="https://ide.geeksforgeeks.org/x0p9JS6dmW">Solution</a></td>
+    <td align="center">27-02-19</td>
+  </tr>
 </table>
