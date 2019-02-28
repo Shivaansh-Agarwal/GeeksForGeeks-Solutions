@@ -162,4 +162,12 @@ The Solutions are coded using any one of the following languages:
     <td align="center"><a href="https://ide.geeksforgeeks.org/x0p9JS6dmW">Solution</a></td>
     <td align="center">27-02-19</td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://practice.geeksforgeeks.org/problems/row-with-minimum-number-of-1s/0/?track=matrix-interview">Row with minimum number of 1's</a></td> 
+    <td align="center">4</td>
+    <td align="center">Matrix</td>
+    <td align="center">Java 8</td>
+    <td align="center"><a href="https://ide.geeksforgeeks.org/cqdkPJttCh">Solution</a></td>
+    <td align="center">28-02-19</td>
+  </tr>
 </table>
